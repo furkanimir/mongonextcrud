@@ -1,9 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-CRUD, kısaltma olarak "Create, Read, Update, Delete" ifadelerini temsil eder ve bir yazılım veya veritabanı projesinde temel operasyonları ifade eder.
+CRUD, kısaltma olarak "**Cr**eate, **R**ead, **U**pdate, **D**elete" ifadelerini temsil eder ve bir yazılım veya veritabanı projesinde temel operasyonları ifade eder.
 Her bir harf, temel veri işleme işlemlerini belirtir.
-
-**C**reate, **R**ead, **U**pdate, **D**elete
 
 CRUD operasyonları, genellikle bir uygulamanın temel veri işleme işlevselliğini sağlayarak, yazılım geliştirme süreçlerinde ve uygulama performansında önemli bir rol oynar.
 
